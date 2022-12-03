@@ -1,0 +1,164 @@
+/* BODDY */
+body
+{
+background-image: linear-gradient(to top,purple,white);
+}
+.main
+{
+    margin-top: 20px;
+    background-color: black;
+    border-radius: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.artiste
+{
+  margin-top: 0px !important;
+}
+
+.nav
+{
+    font-family: Arial;
+    font-weight: bold;
+   
+   
+}
+
+.list
+{
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+   
+}
+ul li
+
+{
+   margin-right: 20px; 
+   /* text-shadow: green;
+   */
+}
+ul li a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: green;
+}
+.photo
+{
+    
+    margin-top: 20px;
+}
+.name
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-left: 175px;
+   
+
+}
+.name1
+{
+    display: flex;
+    flex-direction: row;
+    padding-left: 175px;
+}
+#phrase
+{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: blue;
+  
+}
+div div div
+{
+    margin-right: 20px;
+}
+.lil
+{
+    width: 300px;
+    height: 300px;
+   
+}
+.justin
+{
+    width: 300px;
+    height: 300px;
+   
+}
+.kiss
+{
+    width: 300px;
+    height: 300px;
+   
+}
+.lil1
+{
+    width: 300px;
+    height: 100px;
+   
+}
+.justin1
+{
+    width: 300px;
+    height: 100px;
+   
+}
+.kiss1
+{
+    width: 250px;
+    height: 100px;
+   
+}
+
+/* button */
+
+.button
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    margin-top: 100px;
+   
+}
+.button .but
+{
+    margin-right: 100px;
+    border: none;
+    border-radius: 5px !important;
+    
+   
+}
+  
+
+button 
+{
+   
+    background: purple;
+    width: 100px;
+    height: 40px;
+   border: none;
+}
+button:hover
+{
+  background-color: blue;
+ 
+}
+.general
+{
+    display: flex;
+    justify-content: space-around;
+}
+footer
+{
+    background-color: black !important;
+    margin-top: 10px;
+    color: blue;
+}
+
+
